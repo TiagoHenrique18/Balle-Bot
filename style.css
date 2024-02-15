@@ -123,15 +123,8 @@ body{
     align-items: center;
     justify-content: space-around;
 }
-
-.rodape-imagem{
-    height: 48px;
-}
-
 .fp{
-    text-align: center;
-    margin-top: 10px;
-    color: #ECD6C4;
+    color: #ECD6C4 ;
 }
 .fp > a{
     color: #ECD6C4;
